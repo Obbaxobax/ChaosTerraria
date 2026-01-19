@@ -1,0 +1,4 @@
+displayName = Chaos Terraria
+author = Obbax
+version = 1.2
+weakReferences = CalamityMod@2.0.5

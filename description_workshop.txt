@@ -1,0 +1,14 @@
+[b]Chaos Terraria[/b] is a challenge mod which causes random events to happen at set intervals (10 seconds by default).
+
+The mod is highly configurable, allowing the user to specify the relative weights of each event. There are some additional events added while Calamity Mod is enabled.
+
+It is inspired by Chaos Mario 64. I plan to potentially add more event and adjust the existing ones.
+
+There are some Calamity Mod exclusive events.
+
+[h2]How to Configure[/h2]
+Using the ingame mod configuration, the weights of various events can be changed. Setting an event to a weight of 0 will effectively disable it.
+All the weights are relative to the other values. When an event is rolled, a random number is chosen that is less than the sum of all event weights. Essentially this means that the chance of a given event is equal to the [weight / sum of weights].
+Basically, a larger weight means an event is more common, smaller weights mean an event is less common.
+
+If you enjoyed, consider supporting me: [url=ko-fi.com/obbax]Support Me[/url]

@@ -1,0 +1,242 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Zenith: {
+		Tooltip: ""
+		DisplayName: Zenith
+	}
+}
+
+Projectiles.Explosion.DisplayName: Explosion
+
+Configs: {
+	ChaosTerrariaConfig: {
+		DisplayName: Chaos Terraria Config
+
+		timeBetweenEvents: {
+			Label: Time Between Events
+			Tooltip: The time (in seconds) between events.
+		}
+
+		displayEventName: {
+			Label: display Event Name
+			Tooltip: Displays internal event name in chat (moreso for testing purposes)
+		}
+
+		SkipEventWeight: {
+			Label: Skip Event Weight
+			Tooltip: The weight for which no event will occur
+		}
+	}
+
+	WeightConfig: {
+		DisplayName: Event Weight Config
+
+		Boulders: {
+			Label: Boulders
+			Tooltip: Boulders
+		}
+
+		SpawnRandomMobs: {
+			Label: Spawn Random Mobs
+			Tooltip: ""
+		}
+
+		BlowUp: {
+			Label: Blow Up
+			Tooltip: ""
+		}
+
+		RandomTP: {
+			Label: Random TP
+			Tooltip: ""
+		}
+
+		GiveCoins: {
+			Label: Give Coins
+			Tooltip: ""
+		}
+
+		ZeroHP: {
+			Label: Zero HP
+			Tooltip: ""
+		}
+
+		ChangeMaxHP: {
+			Label: Change Max HP
+			Tooltip: ""
+		}
+
+		ChangeWeaponStats: {
+			Label: Change Weapon Stats
+			Tooltip: ""
+		}
+
+		JesusAppears: {
+			Label: Jesus Appears
+			Tooltip: ""
+		}
+
+		ChangeSpeed: {
+			Label: Change Speed
+			Tooltip: ""
+		}
+
+		ExitWorld: {
+			Label: Exit World
+			Tooltip: This ones my favourite
+		}
+
+		LaunchPlayer: {
+			Label: Launch Player
+			Tooltip: ""
+		}
+
+		RandomStatusEffect: {
+			Label: Random Status Effect
+			Tooltip: ""
+		}
+
+		ImpendingDoom: {
+			Label: Impending Doom
+			Tooltip: ""
+		}
+
+		FakeImpendingDoom: {
+			Label: Fake Impending Doom
+			Tooltip: ""
+		}
+
+		RemoveAllBuffs: {
+			Label: Remove All Buffs
+			Tooltip: ""
+		}
+
+		FlipGrav: {
+			Label: Flip Grav
+			Tooltip: ""
+		}
+
+		SwapWaterAndLava: {
+			Label: Swap Water And Lava
+			Tooltip: ""
+		}
+
+		RandomizeDyes: {
+			Label: Randomize Dyes
+			Tooltip: ""
+		}
+
+		KillAllMobs: {
+			Label: Kill All Mobs
+			Tooltip: ""
+		}
+
+		SpawnBunnies: {
+			Label: Spawn Bunnies
+			Tooltip: ""
+		}
+
+		SpawnDynamiteBunnies: {
+			Label: Spawn Dynamite Bunnies
+			Tooltip: ""
+		}
+
+		SpawnPinkies: {
+			Label: Spawn Pinkies
+			Tooltip: ""
+		}
+
+		SpawnGuides: {
+			Label: Spawn Guides
+			Tooltip: ""
+		}
+
+		SpawnBombs: {
+			Label: Spawn Bombs
+			Tooltip: ""
+		}
+
+		GiveDiscount: {
+			Label: Give Discount
+			Tooltip: ""
+		}
+
+		StartInvasion: {
+			Label: Start Invasion
+			Tooltip: ""
+		}
+
+		SpawnMeteor: {
+			Label: Spawn Meteor
+			Tooltip: Only works if there is not too many meteors
+		}
+
+		SpawnDungeonGuardian: {
+			Label: Spawn Dungeon Guardian
+			Tooltip: ""
+		}
+
+		FakeSpawnDungeonGuardian: {
+			Label: Fake Spawn Dungeon Guardian
+			Tooltip: ""
+		}
+
+		TorchGod: {
+			Label: Torch God
+			Tooltip: ""
+		}
+
+		TeleportAllNPCs: {
+			Label: Teleport All NPCs
+			Tooltip: ""
+		}
+
+		ReZero: {
+			Label: ReZero return by death
+			Tooltip: ""
+		}
+
+		GiveFakeZenith: {
+			Tooltip: ""
+			Label: Give Fake Zenith
+		}
+
+		TheTerrarianSituation: {
+			Tooltip: ""
+			Label: The Terrarian Situation is Crazy
+		}
+
+		Headers.Calamity: Calamity Event Weights
+
+		SpawnTheLorde: {
+			Tooltip: ""
+			Label: Spawn The Lorde
+		}
+
+		BossRush: {
+			Tooltip: ""
+			Label: Starts Boss Rush
+		}
+
+		SpawnEidolon: {
+			Tooltip: ""
+			Label: Spawn Primordial Wyrm
+		}
+
+		SpawnSCal: {
+			Tooltip: ""
+			Label: Spawn Supreme Calamitas
+		}
+
+		Testing: {
+			Tooltip: ""
+			Label: Testing
+		}
+
+		FakePlayer: {
+			Label: Fake Player
+			Tooltip: ""
+		}
+	}
+}

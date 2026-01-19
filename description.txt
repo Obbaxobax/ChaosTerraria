@@ -1,0 +1,1 @@
+Chaos Terraria is a challenge mod which causes random events to happen at set intervals (10 seconds by default).
