@@ -12,4 +12,6 @@ Using the ingame mod configuration, the weights of various events can be changed
 All the weights are relative to the other values. When an event is rolled, a random number is chosen that is less than the sum of all event weights. Essentially this means that the chance of a given event is equal to the [weight / sum of weights].
 Basically, a larger weight means an event is more common, smaller weights mean an event is less common.
 
-If you enjoyed, consider supporting me: [![Ko-fi](https://ko-fi.com/obbax)](https://ko-fi.com/obbax)
+If you enjoyed, consider supporting me: 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O514XDBS)
